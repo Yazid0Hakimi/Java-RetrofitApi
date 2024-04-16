@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tp3_retrofit_v2</string>
+    <string name="search_btn">Search</string>
+    <string name="share_btn">Share</string>
+</resources>
